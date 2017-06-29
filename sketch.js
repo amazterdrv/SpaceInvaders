@@ -3,7 +3,7 @@ var star = [];
 var bullet = [];
 
 function setup(){
-   createCanvas(400,500);
+   createCanvas(300,300);
    spaceship = new spaceShip();
    for(var i = 0;i<4;i++)
    {
